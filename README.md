@@ -1,1 +1,3 @@
 # LiITALemmaBank
+
+Lemma Bank repository
