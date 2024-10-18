@@ -25,22 +25,8 @@ Each field refers to the corresponding metadata table:
 
 * Written Representations
 ```
- lemma_wr            
-      
+ lemma_wr                  
 ```
-
-
-* Lemma variants 
-```
-variant_group
-``` 
-
-* Phonetic Representations
-```
-phonetic_rep
-```
-
-
 
 ## Credits
 
