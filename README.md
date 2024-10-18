@@ -6,7 +6,7 @@ Data are coded both in a relational database ( SQL format ) and in a graph datab
 
 ##  RELATIONAL DATABASE DESCRIPTION
 
-[MariaDB](https://mariadb.com/) gzipped dump is provided in the root folder.
+zipped dump is provided in the root folder.
  
 ### Main tables
 
