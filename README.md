@@ -3,7 +3,6 @@ The LiITA Lemma Bank is the core of the LiITA Knowledge Base. It consists of a l
 Italian lemmas, serving as the backbone to achieve interoperability, by linking all those entries in lexical resources and tokens in corpora that point to the same lemma.
 
 Data are coded both in a relational database ( SQL format ) and in a graph database (RDF triples - Turtle format).
-Mapping between SQL and RDF data is made by means of D2RQ according to the mapping file provided in the 'rdf' folder.
 
 ##  RELATIONAL DATABASE DESCRIPTION
 
