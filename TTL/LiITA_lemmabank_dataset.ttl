@@ -6,7 +6,7 @@
 <http://liita.it/data/id/lemma/LemmaBank> a void:Dataset ;
     rdfs:label "LiITA Lemma Collection" ;
     dcterms:title "The LiITA Lemma Collection" ;
-    dcterms:description "The Lemma Bank is a collection of approximately 94k canonical forms for Italian that is used to interlink the linguistic resources in the LiITA Knowledge Base." ;
+    dcterms:description "The Lemma Bank is a collection of canonical forms for Italian that is used to interlink the linguistic resources in the LiITA Knowledge Base." ;
     dcterms:license <http://www.wikidata.org/entity/Q18199165> ;
     dcterms:creator <http://www.wikidata.org/entity/Q89883181>, <http://www.wikidata.org/entity/Q499911>;
     dcterms:contributor "Valerio Basile, Cristina Bosco, Paolo Brasolin, Andrea Di Fabio, Eleonora Litta, Francesco Mambrini, Giovanni Moretti, Marco Passarotti";
